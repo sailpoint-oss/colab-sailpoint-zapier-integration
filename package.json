@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "zapier-platform-core": "10.1.3",
-    "form-data": "2.1.4",
+    "form-data": "2.5.5",
     "got": "9.6.0",
     "content-disposition": "^0.5.3"
   },
